@@ -2,13 +2,13 @@
   "design": [
     {
       "id": 1,
-      "category": "wirefream",
+      "category": "wireframe",
       "title": "first",
       "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/1.jpg"
     },
     {
       "id": 2,
-      "category": "wirefream",
+      "category": "wireframe",
       "title": "second",
       "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/2.jpg"
     },
@@ -20,7 +20,7 @@
     },
     {
       "id": 4,
-      "category": "wirefream",
+      "category": "wireframe",
       "title": "fourth",
       "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/1.jpg"
     },
@@ -32,14 +32,26 @@
     },
     {
       "id": 6,
-      "category": "wirefream",
+      "category": "wireframe",
       "title": "sixth",
       "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/3.jpg"
     },
     {
       "id": 7,
-      "category": "wirefream",
+      "category": "wireframe",
       "title": "seventh",
+      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/1.jpg"
+    },
+    {
+      "id": 8,
+      "category": "page-templets",
+      "title": "eightth",
+      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/1.jpg"
+    },
+    {
+      "id": 9,
+      "category": "page-templets",
+      "title": "nighne",
       "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/1.jpg"
     }
   ]
