@@ -20,39 +20,39 @@
     },
     {
       "id": 4,
-      "category": "wireframe",
-      "title": "fourth",
-      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/1.jpg"
+      "category": "page-templets",
+      "title": "Landing Page Template",
+      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689811187/wireToproto/LandingPage_wpgow7.png"
     },
     {
       "id": 5,
-      "category": "prototype",
-      "title": "fifth",
-      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/2.jpg"
+      "category": "page-templets",
+      "title": "Landing Page Template",
+      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689811188/wireToproto/LandingPage1_azli4o.png"
     },
     {
       "id": 6,
-      "category": "wireframe",
-      "title": "sixth",
-      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/3.jpg"
+      "category": "page-templets",
+      "title": "Checkout",
+      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689811187/wireToproto/Checkout-2_ngg9jl.png"
     },
     {
       "id": 7,
-      "category": "wireframe",
-      "title": "seventh",
-      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/1.jpg"
+      "category": "page-templets",
+      "title": "Singel Page Product",
+      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689810902/wireToproto/Finalsofa_cbwzge.jpg"
     },
     {
       "id": 8,
       "category": "page-templets",
-      "title": "eightth",
-      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/1.jpg"
+      "title": "Singel Page Product",
+      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689810852/wireToproto/finalDrons_crzcxs.png"
     },
     {
       "id": 9,
       "category": "page-templets",
-      "title": "nighne",
-      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689782054/wireToproto/1.jpg"
+      "title": "Singel Page Product",
+      "href": "https://res.cloudinary.com/dz4whgsrx/image/upload/v1689810841/wireToproto/finalBackPage_qwgl4y.jpg"
     }
   ]
 }
